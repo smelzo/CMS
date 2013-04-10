@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="20316ef8-e673-4f96-92e5-c41e1bc52e17" kpf_version="5" name="MyProject.komodoproject">
+<preference-set idref="20316ef8-e673-4f96-92e5-c41e1bc52e17">
+  <string id="javascriptExtraPaths"></string>
+  <string id="phpExtraPaths">F:\misericordia\simplex\filemanager;F:\misericordia\simplex\includes</string>
+</preference-set>
+</project>

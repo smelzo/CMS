@@ -1,0 +1,19 @@
+                 The SiliLicense
+               www.silisoftware.com
+               =====================
+
+Disclaimer:
+I am to be held in no way responsible for anything bad that
+happens to you, your computer, anyone you know, anyone who
+knows you, and/or anyone or anything else subsequent to,
+prior to, or even during the acquirance, transport,
+transformation, compilation or execution of this code,
+documentation or media.
+
+Copyright:
+Anything that I have sole copyright over (such as this
+disclaimer and copyright notice), I retain for the full
+period entitled to me under any applicable laws, but
+permission is granted to make use of any such materials for
+the betterment of society, unless someone else makes more
+money off it than I do.

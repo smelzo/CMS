@@ -1,0 +1,15 @@
+<li style="margin-bottom:10px" data-role="">
+    <div class="block">
+       <h4><a href="#" data-role="open-item" data-content="title"></a></h4>
+       <div class="block-body">
+           <p><a href="#" data-role="open-item" data-format="format_date" data-content="creation"></a></p>
+          
+           <p><a href="#" data-role="open-item" data-format="format_abstract" data-content="abstract"></a></p>
+       </div>
+       <div class="block-footer">
+         <button  type="button" class="trash-item" >
+             <i class="icon-trash"></i>
+         </button>
+       </div>
+     </div>
+</li>

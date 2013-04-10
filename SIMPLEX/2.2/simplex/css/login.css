@@ -1,0 +1,19 @@
+.login label {
+    vertical-align:middle;
+    line-height:24px;
+    margin-top:5px;
+}
+.login label i {
+    display: inline-block;
+    margin-right:10px;
+    color:#aaa;
+}
+.login form button ,
+.login form input[type=text],
+.login form input[type=password]{
+    width:100%;
+}
+
+.login form {
+    margin:20px;
+}

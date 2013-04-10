@@ -1,0 +1,27 @@
+<html>
+<head>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+  <script src="jquery.multi-variant-input.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="jquery.multi-variant-input.css" type="text/css" media="all" />
+  <script>
+    $(document).ready(function(){
+      $('#multi_variant_input').multi_variant_input({
+        variants: {'en':'English','de':'German','fr':'French'}
+      });  
+    });
+  </script>
+</head>
+<body>
+<h1>Demo of Multi Variant Input</h1>
+<p>More info at <a href="http://www.thimbleopensource.com/tutorials-snippets/multi-variant-input-jquery-plugin">Multi Variant Input page</a></p>
+  <input type="text" id="multi_variant_input" input_name="multi_variant_input" value="" />
+<h2>Code for this demo</h2>
+<pre>
+$(document).ready(function(){
+  $('#multi_variant_input').multi_variant_input({
+    variants: {'en':'English','de':'German','fr':'French'}
+  });
+});
+</pre>
+</body>
+</html>
